@@ -6,6 +6,61 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: rgb(30, 30, 30);
   font-family: sans-serif;
+  color: antiquewhite;
+}
+
+.grid-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.grid-3 > span {
+  width: 30%;
+  
+  text-align: center;
+}
+img {
+  width: 400px;
+}
+
+.heim {
+  width: 450px;
+}
+
+
+h1 {
+  text-align: center;
+  background-image: url(https://www.vietentours.com/wp-content/uploads/2020/02/FB_Liverpool_header_663549.jpg);
+  padding: 20px;
+  margin: 20px;
+
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+main > section {
+  min-width: 50%;
+  max-width: 60%;
+}
+
+.right-side {
+  min-width: 50%;
+  max-width: 60%;
+}
+
+main > section > h2 {
+  margin: 20px;
+}
+
+h3 {
+  margin: 20px;
 }
