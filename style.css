@@ -11,6 +11,10 @@ body {
   color: antiquewhite;
 }
 
+mark {
+  background-color: chartreuse;
+}
+
 .grid-3 {
   display: flex;
   flex-direction: row;
@@ -73,6 +77,7 @@ h2 {
 }
 #Anfield { 
 text-align: center;
+margin: 20px;
 
 }
 #Stadion {
