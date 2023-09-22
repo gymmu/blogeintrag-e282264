@@ -35,10 +35,10 @@ img {
 
 h1 {
   text-align: center;
-  background-image: url(https://www.vietentours.com/wp-content/uploads/2020/02/FB_Liverpool_header_663549.jpg);
+  background-image: url(https://pbs.twimg.com/media/CombS6iVUAA7Xts.jpg);
   padding: 20px;
   margin: 20px;
-
+  background-position: center 10%;
 }
 
 main {
@@ -57,10 +57,21 @@ main > section {
   max-width: 60%;
 }
 
+.right-side > ul {
+  padding-left: 1em;
+}
+
 main > section > h2 {
   margin: 20px;
 }
 
 h3 {
   margin: 20px;
+}
+h2 { 
+  margin: 20px;
+}
+#link-box {¨
+  border: 10px;
+  border-color: white;
 }
