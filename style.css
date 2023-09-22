@@ -81,3 +81,15 @@ text-align: center;
 #Anfield-Road > img {
   width: 90%;
 }
+
+#box {
+  border: 5px solid antiquewhite;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  color: antiquewhite;
+}
+
+a:visited {
+  color: antiquewhite;
+}
