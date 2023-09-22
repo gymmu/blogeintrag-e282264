@@ -58,7 +58,7 @@ main > section {
 }
 
 .right-side > ul {
-  padding-left: 1em;
+  padding-left: 35px;
 }
 
 main > section > h2 {
@@ -71,7 +71,13 @@ h3 {
 h2 { 
   margin: 20px;
 }
-#link-box {¨
-  border: 10px;
-  border-color: white;
+#Anfield { 
+text-align: center;
+
+}
+#Stadion {
+text-align: center;
+}
+#Anfield-Road > img {
+  width: 90%;
 }
